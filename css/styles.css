@@ -1,0 +1,27 @@
+.post {
+  margin-bottom: 60px;
+}
+
+.post img {
+  margin:0 auto;
+  display: block;
+}
+
+h3 {
+  font-family: sans-serif;
+  color: #A5132A;
+}
+
+.about-me span{
+  font-style: italic;
+}
+
+.background-light {
+  background-color: #fefefe;
+  color: #000;
+}
+
+.background-dark {
+  background-color: #000;
+  color: #fff;
+}
